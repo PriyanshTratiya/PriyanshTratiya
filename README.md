@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/fx82PnZ8VZeAr3jzYU/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="500"/>
+  <br>
   <div id="badges">
   <a href="https://www.linkedin.com/in/priyansh-tratiya/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
