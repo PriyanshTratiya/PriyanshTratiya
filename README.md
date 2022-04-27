@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="100"/>
+</div>
+
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 👯 I’m looking to collaborate on Data Science and Artficial Intelligence
+- 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college
+- 📫 How to reach me: tratiyapriyansh@gmail.com
+
 <!--
 **PriyanshTratiya/PriyanshTratiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
