@@ -19,11 +19,11 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  - 🔭 I’m currently working on Disease Predcition using Machine Learning Techniques
-- 🌱 I’m currently learning Machine Learning and Deep Learning
-- 👯 I’m looking to collaborate on Data Science and Artficial Intelligence
-- 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college
-- 📫 How to reach me: tratiyapriyansh@gmail.com
+  - 🔭 I’m currently working on Disease Predcition using Machine Learning Techniques <br>
+- 🌱 I’m currently learning Machine Learning and Deep Learning <br>
+- 👯 I’m looking to collaborate on Data Science and Artficial Intelligence <br>
+- 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>
+- 📫 How to reach me: tratiyapriyansh@gmail.com <br>
 </div>
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
