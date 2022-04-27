@@ -12,7 +12,10 @@
   </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=PriyanshTratiya&style=flat-square&color=blue" alt=""/>
-  <h1>
+  
+</div>
+<div align = "center">
+<h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
@@ -22,8 +25,7 @@
 - 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college
 - 📫 How to reach me: tratiyapriyansh@gmail.com
 </div>
-
-<div>
+<div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
