@@ -30,8 +30,8 @@
 <br>
 
 <div align = "center">
-  ### :hammer_and_wrench: Languages and Tools :
-  <br>
+  :hammer_and_wrench: Languages and Tools :
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="80" height="80"/>&nbsp;
@@ -48,12 +48,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" **alt="NetworkX" width="80" height="80"/>
 </div>
-<br>
+
 <div>
-### :fire: My Stats :
-<br>
+:fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PriyanshTratiya&theme=dark&background=000000)](https://git.io/streak-stats)
-<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshTratiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
