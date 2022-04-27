@@ -14,6 +14,7 @@
   <img src="https://komarev.com/ghpvc/?username=PriyanshTratiya&style=flat-square&color=blue" alt=""/>
   
 </div>
+<br>
 <div>
 <h1>
   Hi there
@@ -25,6 +26,7 @@
 - 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>
 - 📫 How to reach me: tratiyapriyansh@gmail.com <br>
 </div>
+<br>
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
