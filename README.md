@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/giphy-downsized-large.gif" width="500"/>
   <br>
   <div id="badges">
   <a href="https://www.linkedin.com/in/priyansh-tratiya/">
