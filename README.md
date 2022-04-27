@@ -29,6 +29,7 @@
 </div>
 <br>
 ### :hammer_and_wrench: Languages and Tools :
+<br>
 <div align = "center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="80" height="80"/>&nbsp;
@@ -46,10 +47,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="NetworkX" **alt="NetworkX" width="80" height="80"/>
 </div>
-
+<br>
 ### :fire: My Stats :
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PriyanshTratiya&theme=dark&background=000000)](https://git.io/streak-stats)
-
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshTratiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
