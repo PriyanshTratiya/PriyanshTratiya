@@ -21,8 +21,8 @@
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
-  - 🔭 I’m currently working on Disease Prediction using Machine Learning Techniques <br>
-- 🌱 I’m currently learning Machine Learning and Deep Learning <br>
+  - 🔭 I’m currently pursuing my graduate degree from University of Illinois Urbana Champaign 
+<br>
 - 👯 I’m looking to collaborate on Data Science and Artficial Intelligence <br>
 - 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>
 - 📫 How to reach me: tratiyapriyansh@gmail.com <br>
