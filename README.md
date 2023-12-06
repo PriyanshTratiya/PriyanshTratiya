@@ -23,9 +23,9 @@
   </h1>
   - 🔭 I’m currently pursuing my graduate degree from University of Illinois Urbana Champaign 
 <br>
-- 👯 I’m looking to collaborate on Data Science and Artficial Intelligence <br>
-- 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>
-- 📫 How to reach me: tratiyapriyansh@gmail.com <br>
+- 👯 I’m looking to collaborate on Artificial Intelligence and Software Development<br>
+<!-- - 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>-->
+- 📫 How to reach me: tratiyapriyansh@gmail.com <br> 
 </div>
 <br>
 
@@ -47,14 +47,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="80" height="80"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" title="TensorFlow" alt="TensorFlow" width="80" height="80"/>&nbsp;
   
-</div>
-
-<div>
-:fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PriyanshTratiya&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshTratiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 
