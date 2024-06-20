@@ -22,6 +22,7 @@
 <!-- <br>
 - 👯 I’m looking to collaborate on Artificial Intelligence and Software Development<br> -->
 <!-- - 💬 Ask me about Anything you wish from AI/ML to Movies to How I organized TEDx event in my college <br>-->
+<br>
 - 📫 How to reach me: tratiya2@illinois.edu <br> 
 </div>
 <br>
